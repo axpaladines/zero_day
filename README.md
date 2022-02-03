@@ -15,3 +15,7 @@ git branch -M main
 git remote add origin git@github.com:axpaladines/zero_day.git
 
 git push -u origin main 
+
+Other commands
+
+git reset --hard commit
